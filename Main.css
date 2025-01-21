@@ -1,0 +1,46 @@
+
+
+
+body{
+    background-color: #9494b4;
+    color: whitesmoke;
+}
+
+p{
+    font-size: larger;
+    color: rgb(20, 20, 20);
+
+}
+
+Nav{
+  
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeimage{
+    margin-right: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+width: 400px;
+    
+}
+
+h1{
+
+   background-color: rgb(31, 31, 31);
+    text-align: center;
+    padding: 10px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+
+}
+
